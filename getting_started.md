@@ -2,7 +2,7 @@
 
 This quick start builds a simple procedural hip roof from a Blueprint spline and a PCG graph.
 
-Video tutorial: [Watch the quick-start video on YouTube](https://www.youtube.com/watch?v=TODO)
+Video tutorial: [Watch the quick-start video on YouTube](https://www.youtube.com/watch?v=C5bTfa2KcG8)
 
 ## Requirements
 
